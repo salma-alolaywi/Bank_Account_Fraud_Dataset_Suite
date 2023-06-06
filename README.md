@@ -40,6 +40,9 @@ merch_long:longitude of the merchant
 is_fraud: Whether the transaction is fraud(1) or not(0)
 
 
+you can see the data set here
+https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022
+
 
 
 
